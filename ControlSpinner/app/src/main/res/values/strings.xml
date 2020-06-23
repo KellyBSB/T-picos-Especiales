@@ -1,0 +1,8 @@
+<resources>
+    //permite poner texto
+    <string name="app_name">Control Spinner</string>
+    <string name="valor1">Ingrese valor uno</string>
+    <string name="valor2">Ingrese valor dos</string>
+    <string name="button">Calcular</string>
+    <string name="resultado">Resultado</string>
+</resources>
