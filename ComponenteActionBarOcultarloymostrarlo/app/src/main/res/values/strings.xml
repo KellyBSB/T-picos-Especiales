@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Componente ActionBar (Ocultarlo y mostrarlo)</string>
+    <string name="item1">Opcion 1</string>
+    <string name="item2">Opcion 2</string>
+    <string name="item3">Opcion 3</string>
+    <string name="button">Ocultar action bar</string>
+    <string name="button2">Mostrar action bar</string>
+
+
+
+
+</resources>
