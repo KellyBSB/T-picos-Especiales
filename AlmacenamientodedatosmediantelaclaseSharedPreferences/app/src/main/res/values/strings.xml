@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Almacenamiento de datos mediante la clase SharedPreferences</string>
+    <string name="button">Guardar</string>
+    <string name="mail">Ingrese si Email</string>
+
+
+</resources>
