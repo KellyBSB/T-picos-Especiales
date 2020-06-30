@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "369522587739",
+    "firebase_url": "https://datos-eeb15.firebaseio.com",
+    "project_id": "datos-eeb15",
+    "storage_bucket": "datos-eeb15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369522587739:android:8f7b6434737972d431a77e",
+        "android_client_info": {
+          "package_name": "com.example.datos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369522587739-nabsf6jp57feqt6o7vsd0efscjribd50.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.datos",
+            "certificate_hash": "8040cc3e5e8e082aaa015043e4d5b5d37b5b9518"
+          }
+        },
+        {
+          "client_id": "369522587739-rlqfci73eo47l29lmhbg8t7h8spocokf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkVQD-Vg6UZQ7wcy1BrV91p14zPa3Y1Ts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369522587739-rlqfci73eo47l29lmhbg8t7h8spocokf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

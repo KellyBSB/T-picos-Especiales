@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/icon_add"
+        android:icon="@drawable/ic_aniadir11"
+        android:title="Edit Done"
+        app:showAsAction="always"></item>
+
+    <item
+        android:id="@+id/icon_save"
+        android:icon="@drawable/ic_guardar1"
+        android:title="guardar"
+        app:showAsAction="always"></item>
+
+    <item
+        android:id="@+id/icon_delete"
+        android:icon="@drawable/ic_borrar"
+        android:title="borrar"
+        app:showAsAction="always"></item>
+
+</menu>

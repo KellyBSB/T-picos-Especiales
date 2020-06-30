@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Prueba1</string>
+        <string name="nombre">Ingrese su nombre</string>
+        <string name="nickname">Ingrese su nickname</string>
+        <string name="correo">Ingrese su correo </string>
+        <string name="pass">Ingrese su contraseña</string>
+        <string name="registro">Registrar</string>
+        <string name="login">Login</string>
+        <string name="ingresar">Ingresar</string>
+        <string name="atras">Regresar</string>
+        <string name="salir">Logout</string>
+        <string name="juego">Videojuego favorito</string>
+        <string name="edad">Edad actual</string>
+        <string name="plataforma">En que plataforma juegas</string>
+        <string name="edadinicio">De que edad empezaste</string>
+        <string name="guardar">Guardar</string>
+
+
+</resources>
